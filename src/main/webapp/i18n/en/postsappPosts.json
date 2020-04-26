@@ -1,0 +1,29 @@
+{
+  "gatewayApp": {
+    "postsappPosts": {
+      "home": {
+        "title": "Posts",
+        "createLabel": "Create a new Posts",
+        "createOrEditLabel": "Create or edit a Posts",
+        "notFound": "No Posts found"
+      },
+      "delete": {
+        "question": "Are you sure you want to delete Posts {{ id }}?"
+      },
+      "detail": {
+        "title": "Posts"
+      },
+      "title": "Title",
+      "image": "Image",
+      "content": "Content",
+      "category": "Category"
+    }
+  },
+  "postsappApp": {
+    "postsappPosts": {
+      "created": "A new Posts is created with identifier {{ param }}",
+      "updated": "A Posts is updated with identifier {{ param }}",
+      "deleted": "A Posts is deleted with identifier {{ param }}"
+    }
+  }
+}

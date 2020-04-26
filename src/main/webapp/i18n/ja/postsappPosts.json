@@ -1,0 +1,29 @@
+{
+  "gatewayApp": {
+    "postsappPosts": {
+      "home": {
+        "title": "Posts",
+        "createLabel": "Posts を追加",
+        "createOrEditLabel": "Postsを追加または編集",
+        "notFound": "No Posts found"
+      },
+      "delete": {
+        "question": "Posts {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Posts"
+      },
+      "title": "Title",
+      "image": "Image",
+      "content": "Content",
+      "category": "Category"
+    }
+  },
+  "postsappApp": {
+    "postsappPosts": {
+      "created": "A new Posts is created with identifier {{ param }}",
+      "updated": "A Posts is updated with identifier {{ param }}",
+      "deleted": "A Posts is deleted with identifier {{ param }}"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "gatewayApp": {
+    "CategoryPosts": {
+      "null": "",
+      "FRENCH": "FRENCH",
+      "ENGLISH": "ENGLISH",
+      "SPANISH": "SPANISH"
+    }
+  }
+}

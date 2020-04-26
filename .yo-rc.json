@@ -2,7 +2,8 @@
   "generator-jhipster": {
     "promptValues": {
       "packageName": "com.ss.app",
-      "nativeLanguage": "en"
+      "nativeLanguage": "en",
+      "microservicePath": "D:\\projects\\samsung\\posts-app"
     },
     "jhipsterVersion": "6.8.0",
     "applicationType": "gateway",
